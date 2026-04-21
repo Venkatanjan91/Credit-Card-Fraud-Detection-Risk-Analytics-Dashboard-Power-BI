@@ -86,7 +86,7 @@ It is designed to help organizations **detect fraud trends, minimize financial l
 
 Credit Card Fraud Risk Analysis Dashboard  
 
-
+<img width="1192" height="672" alt="Screenshot 2026-04-21 170137" src="https://github.com/user-attachments/assets/20437057-9219-4fe7-bb5a-9f6c1f8e5da8" />
 
 ---
 
